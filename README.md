@@ -1,6 +1,8 @@
 # PPP-static
 Prices-Point-Positioning static method and .sp3 file interpolator 
 
+![satelite ground track](https://www.gim-international.com/cache/b/c/0/2/0/bc0205434d2016efc4246efaacdcd68bd562024d.png)
+
 Precise point positioning (PPP) stands out as an optimal approach for providing standalone static and kinematic
 geodetic point positioning solutions using all the available GNSS constellations. Combining precise satellite
 orbits and clocks with un-differenced, dual-frequency, pseudo-range and carrier-phase observables, PPP is able to
